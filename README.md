@@ -63,14 +63,14 @@ python manage.py runserver
 <p align="center">
   Feed Home
 </p>
-<img src="">
+<img src="https://github.com/Pranav-Shinde11/Pranav-Shinde11/blob/main/Screenshot%202024-03-04%20192150.png">
 </td> 
 <td width="50%">
 <br>
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="">  
+<img src="https://github.com/Pranav-Shinde11/Pranav-Shinde11/blob/main/Screenshot%202024-03-04%20192435.png">  
 </td>
 </table>
 
